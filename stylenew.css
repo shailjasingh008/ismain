@@ -266,9 +266,8 @@ section .title::after{
 .LGO{
     justify-content: center;
     float: right;
-    border-radius: 100%;
-    width: 90px;
-    height: 65px;
+    width: 100px;
+    height: 50px;
    
   }
 strong{
